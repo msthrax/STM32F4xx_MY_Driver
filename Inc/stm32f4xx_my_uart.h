@@ -1,8 +1,6 @@
 #ifndef __STM32F4xx_MY_USART_H
 #define __STM32F4xx_MY_USART_H
 
-#include <stdio.h>
-#include <stdbool.h>
 #include <stdint.h>
 #include <string.h>
 

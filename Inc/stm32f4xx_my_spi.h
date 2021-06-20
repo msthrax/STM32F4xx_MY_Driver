@@ -1,10 +1,8 @@
 #ifndef __STM32F4xx_MY_SPI_H
 #define __STM32F4xx_MY_SPI_H
 
-#include <stdio.h>
 #include <stdbool.h>
 #include <stdint.h>
-#include <string.h>
 
 #include "stm32f4xx.h"
 #include "stm32f4xx_ll_spi.h"
